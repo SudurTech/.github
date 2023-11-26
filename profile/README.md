@@ -1,12 +1,9 @@
-## Hi there 👋
+![SudurTech IT Company](https://github.com/SudurTech/.github/assets/139155991/6c2dc758-d747-4088-aaab-670f838f0510)
 
-<!--
+## Hi there 👋, This is SudurTech
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🙋‍♀️ A short introduction - SudurTech is best IT company in Nepal.
+🍿 Fun facts - It's Student's Comapany and Organized by Students.
+
+![SudurTech Footer](https://github.com/SudurTech/.github/assets/139155991/7fad877d-dafb-4aed-8166-612d1fc93d5a)
